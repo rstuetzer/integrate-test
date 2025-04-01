@@ -1,10 +1,10 @@
-package com.example.demo;
+package org.rstuetzer.idea;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class IdeaApplicationTests {
 
   @Test
   void contextLoads() {
